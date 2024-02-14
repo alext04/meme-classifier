@@ -1,0 +1,13 @@
+Black
+East Asian
+Indian
+Latino_Hispanic
+Middle Eastern
+Southeast Asian
+White
+Jew
+Muslim
+Christian
+dog
+cat
+animal

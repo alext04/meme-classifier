@@ -1,0 +1,502 @@
+image 1/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/01268_text_removed.jpg: 448x640 1 person, 2 chairs, 153.4ms
+image 2/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/01456_text_removed.jpg: 640x480 9 persons, 178.2ms
+image 3/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/01726_text_removed.jpg: 448x640 1 person, 1 bed, 147.0ms
+image 4/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/01742_text_removed.jpg: 448x640 1 person, 1 tie, 151.2ms
+image 5/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/01765_text_removed.jpg: 640x448 1 person, 157.3ms
+image 6/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/01796_text_removed.jpg: 448x640 2 persons, 146.4ms
+image 7/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/01925_text_removed.jpg: 448x640 1 person, 1 cup, 1 potted plant, 1 vase, 150.0ms
+image 8/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/01967_text_removed.jpg: 448x640 4 persons, 151.3ms
+image 9/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02143_text_removed.jpg: 640x480 1 person, 174.4ms
+image 10/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02145_text_removed.jpg: 448x640 1 cup, 1 bowl, 1 banana, 2 chairs, 1 dining table, 149.6ms
+image 11/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02157_text_removed.jpg: 640x640 1 cow, 213.9ms
+image 12/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02364_text_removed.jpg: 448x640 1 person, 152.9ms
+image 13/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02478_text_removed.jpg: 480x640 2 persons, 1 tie, 161.5ms
+image 14/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02518_text_removed.jpg: 448x640 1 person, 1 dog, 157.7ms
+image 15/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02568_text_removed.jpg: 448x640 1 person, 172.4ms
+image 16/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02634_text_removed.jpg: 512x640 1 person, 187.9ms
+image 17/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/02783_text_removed.jpg: 544x640 4 persons, 188.1ms
+image 18/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03197_text_removed.jpg: 448x640 3 birds, 158.6ms
+image 19/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03214_text_removed.jpg: 640x416 1 person, 152.2ms
+image 20/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03217_text_removed.jpg: 448x640 (no detections), 150.8ms
+image 21/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03519_text_removed.jpg: 448x640 1 cow, 158.6ms
+image 22/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03524_text_removed.jpg: 448x640 8 persons, 160.5ms
+image 23/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03567_text_removed.jpg: 448x640 1 person, 154.0ms
+image 24/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03568_text_removed.jpg: 448x640 2 persons, 1 tie, 157.5ms
+image 25/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03745_text_removed.jpg: 608x640 2 persons, 1 mouse, 209.4ms
+image 26/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/03798_text_removed.jpg: 416x640 (no detections), 147.0ms
+image 27/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/04538_text_removed.jpg: 640x544 2 persons, 1 cat, 1 microwave, 196.6ms
+image 28/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/04569_text_removed.jpg: 448x640 1 cow, 156.5ms
+image 29/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/04621_text_removed.jpg: 448x640 5 persons, 2 cars, 156.8ms
+image 30/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/04769_text_removed.jpg: 448x640 1 person, 156.2ms
+image 31/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/04857_text_removed.jpg: 512x640 1 person, 192.2ms
+image 32/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/05126_text_removed.jpg: 448x640 3 persons, 153.2ms
+image 33/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/05213_text_removed.jpg: 640x416 3 persons, 1 tie, 1 bottle, 152.4ms
+image 34/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/05279_text_removed.jpg: 640x448 1 person, 1 horse, 1 backpack, 158.8ms
+image 35/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/05316_text_removed.jpg: 448x640 1 person, 144.9ms
+image 36/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/05349_text_removed.jpg: 448x640 2 persons, 158.0ms
+image 37/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/05439_text_removed.jpg: 448x640 1 person, 153.4ms
+image 38/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/05938_text_removed.jpg: 640x448 2 persons, 160.7ms
+image 39/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/06123_text_removed.jpg: 480x640 3 dogs, 171.3ms
+image 40/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/06273_text_removed.jpg: 416x640 5 persons, 140.3ms
+image 41/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/06352_text_removed.jpg: 448x640 1 person, 141.6ms
+image 42/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/06491_text_removed.jpg: 640x640 1 person, 208.8ms
+image 43/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/06582_text_removed.jpg: 448x640 1 person, 161.8ms
+image 44/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/06723_text_removed.jpg: 448x640 (no detections), 155.3ms
+image 45/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/07135_text_removed.jpg: 448x640 8 persons, 159.2ms
+image 46/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/07198_text_removed.jpg: 448x640 1 person, 156.4ms
+image 47/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/07351_text_removed.jpg: 448x640 (no detections), 152.6ms
+image 48/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/07382_text_removed.jpg: 416x640 1 person, 1 suitcase, 150.1ms
+image 49/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/07429_text_removed.jpg: 448x640 1 person, 1 bed, 158.2ms
+image 50/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/07528_text_removed.jpg: 448x640 1 person, 1 car, 153.2ms
+image 51/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/07653_text_removed.jpg: 448x640 2 persons, 1 umbrella, 1 kite, 156.6ms
+image 52/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/08291_text_removed.jpg: 448x640 4 persons, 158.1ms
+image 53/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/08451_text_removed.jpg: 480x640 6 persons, 176.4ms
+image 54/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/08795_text_removed.jpg: 640x448 (no detections), 160.0ms
+image 55/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/09152_text_removed.jpg: 640x480 1 person, 2 chairs, 176.5ms
+image 56/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/09467_text_removed.jpg: 512x640 3 persons, 1 chair, 195.7ms
+image 57/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/09563_text_removed.jpg: 448x640 1 cow, 153.9ms
+image 58/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/09715_text_removed.jpg: 480x640 1 dog, 167.6ms
+image 59/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/09863_text_removed.jpg: 448x640 6 persons, 156.6ms
+image 60/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/10285_text_removed.jpg: 640x640 2 persons, 210.4ms
+image 61/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/10362_text_removed.jpg: 640x576 11 persons, 1 tie, 196.5ms
+image 62/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/10386_text_removed.jpg: 448x640 1 book, 157.6ms
+image 63/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/10749_text_removed.jpg: 640x640 3 persons, 224.4ms
+image 64/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/10785_text_removed.jpg: 448x640 2 persons, 1 tie, 157.1ms
+image 65/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/12045_text_removed.jpg: 448x640 1 person, 154.5ms
+image 66/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/12067_text_removed.jpg: 448x640 2 persons, 1 cake, 152.3ms
+image 67/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/12468_text_removed.jpg: 480x640 2 persons, 1 cup, 1 laptop, 175.0ms
+image 68/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/12650_text_removed.jpg: 448x640 2 persons, 155.4ms
+image 69/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/12834_text_removed.jpg: 384x640 2 persons, 146.7ms
+image 70/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/12973_text_removed.jpg: 480x640 1 person, 172.3ms
+image 71/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/13026_text_removed.jpg: 448x640 3 persons, 2 chairs, 1 remote, 162.7ms
+image 72/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/13647_text_removed.jpg: 448x640 2 persons, 1 car, 156.4ms
+image 73/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/13750_text_removed.jpg: 576x640 1 person, 1 cup, 1 spoon, 196.8ms
+image 74/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/13809_text_removed.jpg: 448x640 (no detections), 163.0ms
+image 75/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/14026_text_removed.jpg: 640x448 1 person, 1 tie, 162.8ms
+image 76/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/14389_text_removed.jpg: 448x640 5 persons, 163.3ms
+image 77/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/14865_text_removed.jpg: 512x640 3 persons, 1 chair, 187.8ms
+image 78/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/14873_text_removed.jpg: 448x640 (no detections), 163.8ms
+image 79/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/14975_text_removed.jpg: 448x640 1 person, 158.6ms
+image 80/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/15243_text_removed.jpg: 448x640 1 cat, 160.8ms
+image 81/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/16354_text_removed.jpg: 640x480 2 persons, 181.3ms
+image 82/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/16420_text_removed.jpg: 640x480 3 persons, 173.5ms
+image 83/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/16704_text_removed.jpg: 448x640 3 persons, 156.0ms
+image 84/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/16749_text_removed.jpg: 640x448 (no detections), 163.3ms
+image 85/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/16842_text_removed.jpg: 448x640 1 chair, 154.6ms
+image 86/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/16850_text_removed.jpg: 640x480 1 person, 1 tie, 176.8ms
+image 87/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/16923_text_removed.jpg: 448x640 1 person, 3 chairs, 164.5ms
+image 88/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/17028_text_removed.jpg: 448x640 2 persons, 1 tie, 1 wine glass, 160.6ms
+image 89/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/17045_text_removed.jpg: 448x640 1 person, 1 umbrella, 164.0ms
+image 90/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/17265_text_removed.jpg: 448x640 2 dogs, 162.5ms
+image 91/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/17682_text_removed.jpg: 640x448 1 person, 2 sports balls, 170.5ms
+image 92/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/17908_text_removed.jpg: 640x448 1 person, 2 sandwichs, 1 dining table, 1 toaster, 167.0ms
+image 93/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/17950_text_removed.jpg: 640x256 2 persons, 108.8ms
+image 94/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/17963_text_removed.jpg: 640x416 1 person, 152.4ms
+image 95/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/18059_text_removed.jpg: 448x640 2 persons, 157.6ms
+image 96/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/18306_text_removed.jpg: 480x640 1 person, 1 toothbrush, 171.4ms
+image 97/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/18356_text_removed.jpg: 512x640 2 persons, 196.2ms
+image 98/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/18367_text_removed.jpg: 480x640 (no detections), 175.8ms
+image 99/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/18547_text_removed.jpg: 448x640 1 person, 156.9ms
+image 100/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/18726_text_removed.jpg: 448x640 1 person, 1 bed, 149.5ms
+image 101/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/18742_text_removed.jpg: 448x640 1 person, 152.3ms
+image 102/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/18945_text_removed.jpg: 448x640 4 persons, 148.5ms
+image 103/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/19075_text_removed.jpg: 640x480 1 person, 173.5ms
+image 104/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/19243_text_removed.jpg: 448x640 1 person, 157.7ms
+image 105/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/19385_text_removed.jpg: 640x448 1 person, 156.0ms
+image 106/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/19508_text_removed.jpg: 448x640 2 persons, 155.8ms
+image 107/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/19523_text_removed.jpg: 640x416 1 person, 1 bicycle, 150.8ms
+image 108/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/19530_text_removed.jpg: 640x384 1 person, 1 bear, 148.6ms
+image 109/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/19536_text_removed.jpg: 640x480 1 person, 178.9ms
+image 110/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/19730_text_removed.jpg: 448x640 1 person, 155.7ms
+image 111/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/20437_text_removed.jpg: 448x640 3 persons, 3 cups, 6 forks, 1 knife, 1 spoon, 1 bowl, 1 banana, 1 orange, 1 dining table, 154.8ms
+image 112/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/20861_text_removed.jpg: 640x448 3 persons, 158.3ms
+image 113/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/20984_text_removed.jpg: 512x640 2 persons, 1 couch, 194.4ms
+image 114/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/21075_text_removed.jpg: 448x640 1 truck, 153.9ms
+image 115/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/21567_text_removed.jpg: 448x640 2 persons, 1 laptop, 1 cell phone, 152.1ms
+image 116/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/21643_text_removed.jpg: 640x256 2 persons, 117.8ms
+image 117/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/23645_text_removed.jpg: 640x608 1 person, 196.6ms
+image 118/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/23785_text_removed.jpg: 416x640 1 person, 1 suitcase, 149.7ms
+image 119/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/23810_text_removed.jpg: 448x640 3 persons, 1 backpack, 159.4ms
+image 120/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/24098_text_removed.jpg: 448x640 1 cat, 1 bowl, 1 orange, 1 microwave, 156.2ms
+image 121/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/24135_text_removed.jpg: 448x640 1 dog, 1 bear, 154.4ms
+image 122/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/24316_text_removed.jpg: 448x640 2 persons, 164.3ms
+image 123/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/24396_text_removed.jpg: 512x640 1 person, 195.7ms
+image 124/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/25061_text_removed.jpg: 448x640 1 person, 156.9ms
+image 125/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/25149_text_removed.jpg: 448x640 1 person, 154.3ms
+image 126/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/26187_text_removed.jpg: 448x640 4 persons, 1 tie, 1 sink, 157.9ms
+image 127/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/26397_text_removed.jpg: 640x448 2 persons, 160.5ms
+image 128/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/26439_text_removed.jpg: 640x544 1 person, 189.7ms
+image 129/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/26453_text_removed.jpg: 512x640 (no detections), 195.3ms
+image 130/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/26547_text_removed.jpg: 448x640 1 person, 1 bird, 1 dog, 153.9ms
+image 131/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/26943_text_removed.jpg: 640x448 1 person, 1 cell phone, 153.7ms
+image 132/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/26985_text_removed.jpg: 448x640 1 person, 159.6ms
+image 133/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/27195_text_removed.jpg: 640x448 1 person, 146.9ms
+image 134/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/27384_text_removed.jpg: 480x640 1 person, 173.7ms
+image 135/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/27485_text_removed.jpg: 640x256 2 persons, 112.8ms
+image 136/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/27498_text_removed.jpg: 608x640 1 person, 202.2ms
+image 137/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/27614_text_removed.jpg: 448x640 1 person, 152.0ms
+image 138/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/27635_text_removed.jpg: 640x512 8 persons, 7 sheeps, 1 cell phone, 200.4ms
+image 139/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/28017_text_removed.jpg: 416x640 4 persons, 151.4ms
+image 140/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/28190_text_removed.jpg: 512x640 3 persons, 187.9ms
+image 141/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/28406_text_removed.jpg: 640x448 1 person, 144.2ms
+image 142/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/28690_text_removed.jpg: 576x640 1 person, 194.3ms
+image 143/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/28905_text_removed.jpg: 640x480 1 person, 1 tie, 174.3ms
+image 144/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/28951_text_removed.jpg: 448x640 1 dog, 163.3ms
+image 145/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/29054_text_removed.jpg: 640x480 2 persons, 184.8ms
+image 146/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/29174_text_removed.jpg: 448x640 2 persons, 167.4ms
+image 147/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/29437_text_removed.jpg: 640x480 5 persons, 176.2ms
+image 148/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/29750_text_removed.jpg: 640x448 1 person, 1 cat, 164.5ms
+image 149/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/29843_text_removed.jpg: 640x384 2 persons, 153.6ms
+image 150/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/29873_text_removed.jpg: 448x640 2 persons, 1 tie, 162.5ms
+image 151/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/30145_text_removed.jpg: 448x640 1 person, 150.6ms
+image 152/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/30148_text_removed.jpg: 448x640 3 persons, 152.8ms
+image 153/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/30579_text_removed.jpg: 640x512 1 person, 197.4ms
+image 154/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/30586_text_removed.jpg: 448x640 1 person, 1 bottle, 1 bowl, 153.6ms
+image 155/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/30642_text_removed.jpg: 448x640 1 person, 1 tie, 1 chair, 156.1ms
+image 156/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/30927_text_removed.jpg: 448x640 1 person, 2 chairs, 1 laptop, 157.3ms
+image 157/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/31208_text_removed.jpg: 448x640 1 person, 152.3ms
+image 158/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/31570_text_removed.jpg: 640x448 1 person, 156.4ms
+image 159/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/31752_text_removed.jpg: 640x640 (no detections), 209.8ms
+image 160/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/32049_text_removed.jpg: 448x640 2 persons, 2 chairs, 1 couch, 151.6ms
+image 161/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/32415_text_removed.jpg: 448x640 8 persons, 155.8ms
+image 162/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/32568_text_removed.jpg: 448x640 2 persons, 1 tie, 156.8ms
+image 163/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/32579_text_removed.jpg: 448x640 6 persons, 156.1ms
+image 164/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/32691_text_removed.jpg: 640x576 (no detections), 203.4ms
+image 165/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/32875_text_removed.jpg: 640x448 1 person, 1 sports ball, 167.0ms
+image 166/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/32981_text_removed.jpg: 448x640 1 person, 1 car, 1 truck, 166.7ms
+image 167/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/34018_text_removed.jpg: 640x416 1 person, 153.7ms
+image 168/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/34189_text_removed.jpg: 448x640 4 persons, 1 handbag, 157.2ms
+image 169/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/34209_text_removed.jpg: 512x640 1 person, 187.1ms
+image 170/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/34528_text_removed.jpg: 640x448 1 person, 143.0ms
+image 171/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/34687_text_removed.jpg: 480x640 1 person, 1 car, 165.6ms
+image 172/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/34975_text_removed.jpg: 640x448 1 person, 141.3ms
+image 173/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/35470_text_removed.jpg: 448x640 1 person, 1 bottle, 2 bowls, 138.0ms
+image 174/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/35487_text_removed.jpg: 480x640 1 person, 1 horse, 172.1ms
+image 175/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/35497_text_removed.jpg: 448x640 1 person, 1 teddy bear, 147.5ms
+image 176/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/35719_text_removed.jpg: 448x640 1 person, 1 sports ball, 1 skateboard, 152.0ms
+image 177/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/35840_text_removed.jpg: 448x640 1 person, 150.0ms
+image 178/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/36058_text_removed.jpg: 608x640 3 persons, 205.4ms
+image 179/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/36201_text_removed.jpg: 640x480 2 persons, 182.7ms
+image 180/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/37160_text_removed.jpg: 448x640 1 person, 158.3ms
+image 181/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/37198_text_removed.jpg: 512x640 1 person, 196.9ms
+image 182/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/37420_text_removed.jpg: 640x544 3 persons, 2 cars, 1 boat, 196.6ms
+image 183/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/37658_text_removed.jpg: 448x640 2 persons, 149.8ms
+image 184/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/37692_text_removed.jpg: 448x640 1 person, 155.3ms
+image 185/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/37814_text_removed.jpg: 448x640 1 person, 1 apple, 155.9ms
+image 186/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/38047_text_removed.jpg: 448x640 4 persons, 151.8ms
+image 187/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/38076_text_removed.jpg: 448x640 (no detections), 155.1ms
+image 188/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/38095_text_removed.jpg: 448x640 1 person, 152.0ms
+image 189/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/38910_text_removed.jpg: 640x608 1 dog, 204.2ms
+image 190/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/38914_text_removed.jpg: 448x640 3 persons, 153.8ms
+image 191/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/39018_text_removed.jpg: 448x640 3 persons, 156.7ms
+image 192/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/39076_text_removed.jpg: 448x640 1 person, 1 bear, 153.2ms
+image 193/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/39578_text_removed.jpg: 448x640 1 person, 149.9ms
+image 194/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/39607_text_removed.jpg: 512x640 1 person, 196.7ms
+image 195/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/39827_text_removed.jpg: 448x640 7 persons, 157.9ms
+image 196/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/40618_text_removed.jpg: 448x640 1 person, 153.9ms
+image 197/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/40982_text_removed.jpg: 480x640 1 person, 173.6ms
+image 198/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/41035_text_removed.jpg: 448x640 2 persons, 158.0ms
+image 199/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/41058_text_removed.jpg: 416x640 1 person, 146.8ms
+image 200/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/41276_text_removed.jpg: 640x480 1 person, 1 bear, 1 sports ball, 171.6ms
+image 201/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/41296_text_removed.jpg: 448x640 1 dog, 150.4ms
+image 202/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/41382_text_removed.jpg: 640x640 1 kite, 205.9ms
+image 203/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/41728_text_removed.jpg: 448x640 1 person, 160.2ms
+image 204/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/41796_text_removed.jpg: 416x640 3 persons, 1 chair, 1 potted plant, 143.8ms
+image 205/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/41890_text_removed.jpg: 448x640 (no detections), 147.1ms
+image 206/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/42058_text_removed.jpg: 448x640 (no detections), 137.2ms
+image 207/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/42538_text_removed.jpg: 448x640 1 person, 142.7ms
+image 208/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/42580_text_removed.jpg: 448x640 1 person, 152.0ms
+image 209/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/42631_text_removed.jpg: 448x640 3 persons, 1 handbag, 143.8ms
+image 210/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/42903_text_removed.jpg: 448x640 1 person, 143.2ms
+image 211/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/43092_text_removed.jpg: 448x640 1 person, 153.8ms
+image 212/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/43175_text_removed.jpg: 448x640 6 persons, 1 umbrella, 1 kite, 156.8ms
+image 213/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/43275_text_removed.jpg: 640x448 1 bicycle, 157.0ms
+image 214/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/43698_text_removed.jpg: 448x640 1 person, 2 cars, 1 truck, 156.8ms
+image 215/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/43805_text_removed.jpg: 448x640 (no detections), 157.1ms
+image 216/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/43810_text_removed.jpg: 448x640 1 person, 154.2ms
+image 217/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/43910_text_removed.jpg: 640x448 1 person, 1 tie, 160.8ms
+image 218/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/45062_text_removed.jpg: 448x640 1 person, 2 ties, 159.7ms
+image 219/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/45368_text_removed.jpg: 448x640 5 persons, 154.6ms
+image 220/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/45702_text_removed.jpg: 448x640 1 person, 155.4ms
+image 221/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/46082_text_removed.jpg: 416x640 4 persons, 149.2ms
+image 222/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/46085_text_removed.jpg: 448x640 3 persons, 1 car, 1 umbrella, 153.4ms
+image 223/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/46087_text_removed.jpg: 416x640 1 person, 146.8ms
+image 224/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/46518_text_removed.jpg: 448x640 1 person, 150.6ms
+image 225/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/46812_text_removed.jpg: 640x480 3 persons, 1 laptop, 177.5ms
+image 226/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/46920_text_removed.jpg: 640x512 6 persons, 1 tie, 197.8ms
+image 227/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/46971_text_removed.jpg: 640x448 7 persons, 160.4ms
+image 228/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/47016_text_removed.jpg: 640x480 1 person, 1 laptop, 170.9ms
+image 229/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/47056_text_removed.jpg: 448x640 5 persons, 1 car, 1 truck, 160.4ms
+image 230/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/47103_text_removed.jpg: 448x640 (no detections), 162.3ms
+image 231/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/47162_text_removed.jpg: 640x288 1 person, 125.3ms
+image 232/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/47183_text_removed.jpg: 448x640 5 persons, 160.7ms
+image 233/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/47263_text_removed.jpg: 448x640 3 persons, 153.5ms
+image 234/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/47819_text_removed.jpg: 640x480 1 person, 173.0ms
+image 235/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/47950_text_removed.jpg: 448x640 1 person, 1 umbrella, 154.9ms
+image 236/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/48236_text_removed.jpg: 448x640 1 person, 154.3ms
+image 237/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/48296_text_removed.jpg: 448x640 1 person, 1 dog, 152.6ms
+image 238/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/48370_text_removed.jpg: 640x480 4 persons, 1 laptop, 179.3ms
+image 239/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/48670_text_removed.jpg: 640x640 1 banana, 215.8ms
+image 240/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/48792_text_removed.jpg: 512x640 1 person, 1 sports ball, 193.7ms
+image 241/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/49028_text_removed.jpg: 448x640 1 person, 1 bed, 154.9ms
+image 242/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/49260_text_removed.jpg: 448x640 1 dog, 156.6ms
+image 243/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/49360_text_removed.jpg: 448x640 3 persons, 153.5ms
+image 244/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/49621_text_removed.jpg: 448x640 1 person, 152.1ms
+image 245/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/49650_text_removed.jpg: 448x640 1 person, 1 bicycle, 151.5ms
+image 246/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/49805_text_removed.jpg: 448x640 1 dog, 150.0ms
+image 247/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/49826_text_removed.jpg: 448x640 1 person, 1 cup, 154.0ms
+image 248/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/50198_text_removed.jpg: 640x480 1 person, 1 fork, 170.6ms
+image 249/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/50241_text_removed.jpg: 640x448 1 person, 159.6ms
+image 250/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/50261_text_removed.jpg: 448x640 1 person, 150.1ms
+image 251/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/50317_text_removed.jpg: 640x640 1 person, 208.1ms
+image 252/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/50379_text_removed.jpg: 640x512 (no detections), 191.4ms
+image 253/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/50841_text_removed.jpg: 448x640 (no detections), 159.3ms
+image 254/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/50984_text_removed.jpg: 448x640 1 cat, 1 bowl, 1 microwave, 152.5ms
+image 255/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/51306_text_removed.jpg: 640x320 2 persons, 1 horse, 135.1ms
+image 256/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/51607_text_removed.jpg: 640x480 1 person, 2 cell phones, 174.6ms
+image 257/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/51807_text_removed.jpg: 448x640 4 persons, 1 chair, 1 laptop, 151.6ms
+image 258/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/52031_text_removed.jpg: 448x640 1 person, 153.4ms
+image 259/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/52079_text_removed.jpg: 448x640 1 person, 150.5ms
+image 260/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/52091_text_removed.jpg: 640x448 1 person, 158.9ms
+image 261/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/52104_text_removed.jpg: 640x512 (no detections), 197.0ms
+image 262/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/52394_text_removed.jpg: 416x640 5 persons, 152.3ms
+image 263/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/52603_text_removed.jpg: 448x640 3 persons, 1 car, 160.8ms
+image 264/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/52634_text_removed.jpg: 480x640 1 person, 174.9ms
+image 265/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/53027_text_removed.jpg: 640x544 1 cat, 1 dog, 2 ties, 1 couch, 192.4ms
+image 266/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/53046_text_removed.jpg: 640x512 2 persons, 1 teddy bear, 196.2ms
+image 267/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/53172_text_removed.jpg: 512x640 1 person, 2 bowls, 186.8ms
+image 268/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/53418_text_removed.jpg: 448x640 2 persons, 1 potted plant, 139.8ms
+image 269/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/53491_text_removed.jpg: 448x640 (no detections), 152.5ms
+image 270/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/53609_text_removed.jpg: 640x544 1 person, 191.5ms
+image 271/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/53769_text_removed.jpg: 512x640 1 person, 188.4ms
+image 272/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/53968_text_removed.jpg: 416x640 1 person, 153.7ms
+image 273/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/54069_text_removed.jpg: 512x640 6 persons, 201.7ms
+image 274/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/54108_text_removed.jpg: 640x448 2 persons, 1 car, 152.8ms
+image 275/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/54129_text_removed.jpg: 448x640 (no detections), 149.4ms
+image 276/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/54206_text_removed.jpg: 448x640 2 persons, 154.9ms
+image 277/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/54780_text_removed.jpg: 640x320 1 person, 132.5ms
+image 278/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/54819_text_removed.jpg: 448x640 3 persons, 155.4ms
+image 279/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/54893_text_removed.jpg: 448x640 1 person, 2 teddy bears, 155.8ms
+image 280/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/54930_text_removed.jpg: 448x640 (no detections), 156.8ms
+image 281/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56098_text_removed.jpg: 640x480 1 person, 2 ties, 169.3ms
+image 282/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56124_text_removed.jpg: 640x544 1 wine glass, 4 carrots, 1 cake, 1 dining table, 197.7ms
+image 283/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56149_text_removed.jpg: 448x640 1 person, 153.4ms
+image 284/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56207_text_removed.jpg: 448x640 1 person, 1 cup, 155.0ms
+image 285/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56241_text_removed.jpg: 448x640 9 persons, 159.5ms
+image 286/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56413_text_removed.jpg: 448x640 1 person, 154.3ms
+image 287/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56428_text_removed.jpg: 640x448 1 person, 160.5ms
+image 288/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56473_text_removed.jpg: 640x448 1 person, 149.6ms
+image 289/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/56980_text_removed.jpg: 640x480 1 dog, 169.1ms
+image 290/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/57208_text_removed.jpg: 448x640 1 person, 149.6ms
+image 291/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/57369_text_removed.jpg: 640x640 1 person, 209.1ms
+image 292/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/57621_text_removed.jpg: 640x576 2 persons, 200.9ms
+image 293/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/57823_text_removed.jpg: 448x640 1 person, 166.7ms
+image 294/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/58093_text_removed.jpg: 448x640 (no detections), 151.9ms
+image 295/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/58672_text_removed.jpg: 512x640 7 persons, 3 ties, 1 knife, 1 bowl, 190.7ms
+image 296/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/59140_text_removed.jpg: 640x384 3 persons, 1 book, 152.5ms
+image 297/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/59170_text_removed.jpg: 480x640 3 persons, 1 pizza, 167.9ms
+image 298/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/59206_text_removed.jpg: 416x640 2 persons, 149.1ms
+image 299/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/59738_text_removed.jpg: 640x224 2 persons, 2 ties, 108.2ms
+image 300/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/59806_text_removed.jpg: 448x640 1 person, 156.7ms
+image 301/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/60183_text_removed.jpg: 640x448 1 person, 1 tie, 155.3ms
+image 302/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/60893_text_removed.jpg: 448x640 (no detections), 148.8ms
+image 303/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/61038_text_removed.jpg: 448x640 2 donuts, 160.0ms
+image 304/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/61085_text_removed.jpg: 640x512 1 fork, 196.2ms
+image 305/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/61349_text_removed.jpg: 448x640 2 persons, 153.0ms
+image 306/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/61503_text_removed.jpg: 640x448 2 persons, 1 tie, 157.2ms
+image 307/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/61872_text_removed.jpg: 640x384 1 person, 151.1ms
+image 308/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/61973_text_removed.jpg: 640x480 1 person, 1 tie, 174.6ms
+image 309/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/62035_text_removed.jpg: 640x448 (no detections), 158.7ms
+image 310/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/62319_text_removed.jpg: 448x640 3 persons, 156.5ms
+image 311/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/62375_text_removed.jpg: 448x640 2 persons, 1 wine glass, 155.1ms
+image 312/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/62504_text_removed.jpg: 640x448 6 persons, 158.8ms
+image 313/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/62703_text_removed.jpg: 640x512 2 potted plants, 194.3ms
+image 314/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/62948_text_removed.jpg: 512x640 4 persons, 1 car, 190.8ms
+image 315/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/62970_text_removed.jpg: 544x640 4 persons, 194.5ms
+image 316/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/63175_text_removed.jpg: 448x640 1 person, 153.2ms
+image 317/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/63280_text_removed.jpg: 640x448 1 person, 155.7ms
+image 318/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/63507_text_removed.jpg: 448x640 1 cow, 1 bear, 154.5ms
+image 319/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/63745_text_removed.jpg: 480x640 2 persons, 178.8ms
+image 320/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/63827_text_removed.jpg: 640x448 (no detections), 155.2ms
+image 321/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/63921_text_removed.jpg: 448x640 9 persons, 154.7ms
+image 322/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/63987_text_removed.jpg: 448x640 3 persons, 160.2ms
+image 323/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/64071_text_removed.jpg: 640x512 4 persons, 1 frisbee, 199.4ms
+image 324/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/64072_text_removed.jpg: 480x640 1 person, 170.1ms
+image 325/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/64125_text_removed.jpg: 448x640 1 person, 154.9ms
+image 326/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/64312_text_removed.jpg: 448x640 1 person, 148.2ms
+image 327/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/64510_text_removed.jpg: 448x640 2 persons, 1 dog, 1 horse, 156.4ms
+image 328/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/64891_text_removed.jpg: 640x544 2 persons, 1 car, 1 boat, 207.1ms
+image 329/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/65093_text_removed.jpg: 640x448 4 persons, 147.5ms
+image 330/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/65342_text_removed.jpg: 640x480 1 airplane, 171.6ms
+image 331/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/65403_text_removed.jpg: 448x640 8 persons, 160.3ms
+image 332/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/65801_text_removed.jpg: 448x640 1 person, 155.7ms
+image 333/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/65832_text_removed.jpg: 640x256 1 person, 2 dogs, 115.6ms
+image 334/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/67082_text_removed.jpg: 448x640 5 persons, 1 backpack, 153.7ms
+image 335/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/67103_text_removed.jpg: 448x640 1 person, 2 chairs, 1 laptop, 154.7ms
+image 336/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/67208_text_removed.jpg: 480x640 6 persons, 2 cars, 1 handbag, 176.4ms
+image 337/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/67435_text_removed.jpg: 448x640 2 persons, 156.2ms
+image 338/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68043_text_removed.jpg: 448x640 2 persons, 1 umbrella, 152.8ms
+image 339/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68127_text_removed.jpg: 448x640 1 person, 1 tie, 144.0ms
+image 340/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68192_text_removed.jpg: 448x640 2 persons, 1 chair, 154.2ms
+image 341/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68253_text_removed.jpg: 512x640 1 dog, 196.2ms
+image 342/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68257_text_removed.jpg: 448x640 (no detections), 152.4ms
+image 343/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68401_text_removed.jpg: 448x640 1 person, 159.1ms
+image 344/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68409_text_removed.jpg: 544x640 (no detections), 199.7ms
+image 345/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68459_text_removed.jpg: 448x640 8 persons, 1 car, 155.0ms
+image 346/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/68530_text_removed.jpg: 640x448 1 person, 158.5ms
+image 347/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/69150_text_removed.jpg: 480x640 1 horse, 178.4ms
+image 348/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/69512_text_removed.jpg: 640x448 1 person, 153.4ms
+image 349/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/69548_text_removed.jpg: 448x640 2 persons, 1 dog, 1 horse, 150.0ms
+image 350/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/69815_text_removed.jpg: 640x480 1 person, 178.7ms
+image 351/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/70953_text_removed.jpg: 448x640 (no detections), 154.0ms
+image 352/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/71620_text_removed.jpg: 448x640 7 persons, 154.9ms
+image 353/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/71680_text_removed.jpg: 448x640 1 person, 2 horses, 1 sheep, 2 cows, 152.0ms
+image 354/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/72048_text_removed.jpg: 640x448 1 person, 165.5ms
+image 355/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/72061_text_removed.jpg: 576x640 (no detections), 197.2ms
+image 356/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/72168_text_removed.jpg: 640x544 1 person, 194.0ms
+image 357/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/72864_text_removed.jpg: 640x544 5 persons, 192.6ms
+image 358/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/72904_text_removed.jpg: 448x640 1 person, 156.4ms
+image 359/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73021_text_removed.jpg: 608x640 1 person, 199.5ms
+image 360/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73069_text_removed.jpg: 640x640 10 persons, 205.2ms
+image 361/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73482_text_removed.jpg: 480x640 1 person, 1 toothbrush, 160.4ms
+image 362/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73526_text_removed.jpg: 448x640 1 tv, 154.0ms
+image 363/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73601_text_removed.jpg: 640x448 (no detections), 154.0ms
+image 364/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73605_text_removed.jpg: 640x480 1 person, 1 laptop, 175.2ms
+image 365/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73914_text_removed.jpg: 640x512 1 person, 193.9ms
+image 366/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73945_text_removed.jpg: 448x640 1 person, 156.0ms
+image 367/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/73962_text_removed.jpg: 448x640 3 persons, 154.5ms
+image 368/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/74013_text_removed.jpg: 640x448 1 person, 160.9ms
+image 369/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/74058_text_removed.jpg: 640x448 8 persons, 158.9ms
+image 370/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/74250_text_removed.jpg: 448x640 1 person, 153.2ms
+image 371/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/74350_text_removed.jpg: 448x640 1 person, 153.4ms
+image 372/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/74906_text_removed.jpg: 640x512 4 persons, 1 frisbee, 199.2ms
+image 373/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/74908_text_removed.jpg: 640x384 1 person, 1 bear, 1 sports ball, 145.2ms
+image 374/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/74965_text_removed.jpg: 640x576 3 persons, 1 giraffe, 198.3ms
+image 375/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/75142_text_removed.jpg: 640x448 1 potted plant, 1 vase, 166.2ms
+image 376/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/75286_text_removed.jpg: 640x448 1 person, 1 toaster, 165.1ms
+image 377/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/75639_text_removed.jpg: 448x640 (no detections), 167.7ms
+image 378/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/75918_text_removed.jpg: 448x640 1 person, 162.8ms
+image 379/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/76015_text_removed.jpg: 640x544 5 persons, 194.0ms
+image 380/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/76092_text_removed.jpg: 480x640 1 person, 1 car, 173.5ms
+image 381/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/76295_text_removed.jpg: 640x448 3 persons, 166.3ms
+image 382/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/76921_text_removed.jpg: 448x640 2 persons, 1 chair, 1 cell phone, 166.4ms
+image 383/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/78134_text_removed.jpg: 640x576 9 persons, 198.7ms
+image 384/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/78156_text_removed.jpg: 480x640 2 persons, 4 bottles, 175.2ms
+image 385/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/78251_text_removed.jpg: 448x640 2 persons, 168.0ms
+image 386/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/78462_text_removed.jpg: 640x512 1 person, 181.9ms
+image 387/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/78612_text_removed.jpg: 640x448 1 person, 1 tie, 167.0ms
+image 388/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/78659_text_removed.jpg: 384x640 2 sandwichs, 140.2ms
+image 389/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/78914_text_removed.jpg: 640x640 1 horse, 1 skateboard, 210.9ms
+image 390/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/79042_text_removed.jpg: 448x640 (no detections), 159.8ms
+image 391/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/79085_text_removed.jpg: 448x640 2 persons, 154.8ms
+image 392/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/79603_text_removed.jpg: 480x640 4 persons, 1 train, 1 truck, 175.8ms
+image 393/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/79615_text_removed.jpg: 640x352 2 persons, 1 baseball bat, 137.8ms
+image 394/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/80243_text_removed.jpg: 416x640 8 persons, 153.5ms
+image 395/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/80426_text_removed.jpg: 448x640 1 person, 151.6ms
+image 396/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/80512_text_removed.jpg: 640x448 1 person, 153.6ms
+image 397/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/80597_text_removed.jpg: 448x640 4 persons, 156.0ms
+image 398/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/80912_text_removed.jpg: 448x640 2 persons, 2 bottles, 1 chair, 154.9ms
+image 399/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/80947_text_removed.jpg: 448x640 3 persons, 1 car, 147.9ms
+image 400/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/82301_text_removed.jpg: 640x640 1 dog, 212.0ms
+image 401/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/82437_text_removed.jpg: 448x640 (no detections), 147.3ms
+image 402/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/82509_text_removed.jpg: 384x640 6 persons, 142.2ms
+image 403/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/82590_text_removed.jpg: 480x640 7 persons, 174.3ms
+image 404/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/82945_text_removed.jpg: 640x480 2 persons, 173.1ms
+image 405/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/83045_text_removed.jpg: 480x640 8 persons, 173.2ms
+image 406/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/83264_text_removed.jpg: 640x320 2 persons, 1 horse, 130.8ms
+image 407/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/83497_text_removed.jpg: 640x448 2 persons, 151.6ms
+image 408/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/83675_text_removed.jpg: 448x640 1 person, 154.3ms
+image 409/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/83745_text_removed.jpg: 640x448 1 person, 150.2ms
+image 410/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/83920_text_removed.jpg: 640x544 (no detections), 194.1ms
+image 411/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/83946_text_removed.jpg: 512x640 1 person, 191.4ms
+image 412/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/83954_text_removed.jpg: 416x640 1 person, 1 laptop, 141.4ms
+image 413/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84015_text_removed.jpg: 640x448 2 persons, 164.9ms
+image 414/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84036_text_removed.jpg: 640x448 1 person, 158.8ms
+image 415/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84102_text_removed.jpg: 640x448 1 person, 155.6ms
+image 416/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84107_text_removed.jpg: 448x640 1 person, 154.1ms
+image 417/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84150_text_removed.jpg: 448x640 1 person, 158.4ms
+image 418/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84162_text_removed.jpg: 608x640 (no detections), 204.4ms
+image 419/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84273_text_removed.jpg: 640x448 1 person, 162.0ms
+image 420/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84302_text_removed.jpg: 640x576 10 persons, 1 tie, 199.5ms
+image 421/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84362_text_removed.jpg: 640x480 1 person, 1 sports ball, 174.4ms
+image 422/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84510_text_removed.jpg: 512x640 1 person, 185.2ms
+image 423/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84756_text_removed.jpg: 640x448 1 person, 165.2ms
+image 424/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/84762_text_removed.jpg: 448x640 1 person, 1 bottle, 1 bowl, 162.9ms
+image 425/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/85237_text_removed.jpg: 448x640 1 person, 161.7ms
+image 426/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/85621_text_removed.jpg: 448x640 1 person, 157.2ms
+image 427/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/85679_text_removed.jpg: 448x640 1 person, 1 bear, 164.5ms
+image 428/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/85761_text_removed.jpg: 448x640 (no detections), 162.2ms
+image 429/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/86170_text_removed.jpg: 480x640 3 persons, 1 horse, 176.2ms
+image 430/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/86195_text_removed.jpg: 512x640 3 persons, 1 chair, 186.8ms
+image 431/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/86357_text_removed.jpg: 640x448 1 person, 167.0ms
+image 432/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/86417_text_removed.jpg: 512x640 1 person, 1 tie, 187.4ms
+image 433/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/87034_text_removed.jpg: 448x640 1 person, 160.6ms
+image 434/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/87130_text_removed.jpg: 640x640 2 persons, 214.2ms
+image 435/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/87169_text_removed.jpg: 448x640 3 persons, 156.2ms
+image 436/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/87251_text_removed.jpg: 640x480 1 person, 187.7ms
+image 437/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/87520_text_removed.jpg: 416x640 8 persons, 151.3ms
+image 438/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/89071_text_removed.jpg: 448x640 9 persons, 158.5ms
+image 439/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/89362_text_removed.jpg: 448x640 1 person, 1 tie, 148.2ms
+image 440/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/89425_text_removed.jpg: 448x640 2 persons, 1 tv, 1 laptop, 1 mouse, 160.2ms
+image 441/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/89430_text_removed.jpg: 448x640 3 persons, 1 wine glass, 2 cups, 151.2ms
+image 442/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/89536_text_removed.jpg: 512x640 1 person, 1 sports ball, 195.3ms
+image 443/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/89642_text_removed.jpg: 448x640 6 persons, 153.0ms
+image 444/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/90236_text_removed.jpg: 448x640 4 persons, 1 tie, 1 sink, 158.0ms
+image 445/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/90243_text_removed.jpg: 512x640 1 person, 1 tie, 199.7ms
+image 446/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/90256_text_removed.jpg: 416x640 (no detections), 149.9ms
+image 447/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/90267_text_removed.jpg: 448x640 1 person, 1 car, 148.8ms
+image 448/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/90643_text_removed.jpg: 448x640 1 person, 1 bottle, 156.7ms
+image 449/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/90843_text_removed.jpg: 448x640 3 sandwichs, 164.3ms
+image 450/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/91058_text_removed.jpg: 416x640 6 persons, 152.6ms
+image 451/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/91405_text_removed.jpg: 448x640 1 person, 152.9ms
+image 452/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/91468_text_removed.jpg: 640x448 1 person, 156.0ms
+image 453/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/91586_text_removed.jpg: 448x640 1 person, 147.9ms
+image 454/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/91602_text_removed.jpg: 640x384 1 person, 1 backpack, 1 potted plant, 150.8ms
+image 455/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/91756_text_removed.jpg: 448x640 2 persons, 159.7ms
+image 456/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/91763_text_removed.jpg: 448x640 1 person, 1 bench, 1 tie, 154.4ms
+image 457/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/91836_text_removed.jpg: 448x640 1 person, 152.4ms
+image 458/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/92046_text_removed.jpg: 384x640 12 persons, 151.5ms
+image 459/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/92058_text_removed.jpg: 640x448 3 persons, 155.7ms
+image 460/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/92068_text_removed.jpg: 480x640 1 cup, 1 pizza, 177.7ms
+image 461/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/92317_text_removed.jpg: 448x640 2 persons, 2 umbrellas, 1 kite, 152.8ms
+image 462/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/92567_text_removed.jpg: 448x640 1 person, 155.9ms
+image 463/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/92738_text_removed.jpg: 416x640 5 persons, 151.1ms
+image 464/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/93041_text_removed.jpg: 448x640 (no detections), 155.0ms
+image 465/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/93051_text_removed.jpg: 384x640 4 persons, 1 cup, 155.2ms
+image 466/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/93148_text_removed.jpg: 448x640 2 persons, 152.7ms
+image 467/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/93172_text_removed.jpg: 448x640 1 person, 150.3ms
+image 468/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/93528_text_removed.jpg: 448x640 1 person, 147.3ms
+image 469/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/93541_text_removed.jpg: 448x640 7 persons, 159.8ms
+image 470/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/93620_text_removed.jpg: 640x576 3 persons, 1 giraffe, 203.4ms
+image 471/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/94170_text_removed.jpg: 512x640 1 person, 1 oven, 192.3ms
+image 472/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/94185_text_removed.jpg: 448x640 1 person, 158.6ms
+image 473/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/94387_text_removed.jpg: 448x640 2 persons, 1 bench, 160.6ms
+image 474/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/94560_text_removed.jpg: 640x448 4 persons, 164.5ms
+image 475/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/94738_text_removed.jpg: 448x640 2 persons, 162.2ms
+image 476/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/94813_text_removed.jpg: 448x640 3 persons, 159.2ms
+image 477/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95038_text_removed.jpg: 480x640 1 person, 178.9ms
+image 478/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95086_text_removed.jpg: 448x640 4 persons, 158.4ms
+image 479/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95173_text_removed.jpg: 640x448 1 person, 1 tie, 166.0ms
+image 480/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95176_text_removed.jpg: 448x640 1 person, 165.4ms
+image 481/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95487_text_removed.jpg: 448x640 (no detections), 164.9ms
+image 482/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95604_text_removed.jpg: 640x448 4 persons, 162.9ms
+image 483/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95613_text_removed.jpg: 448x640 1 person, 160.9ms
+image 484/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95640_text_removed.jpg: 448x640 1 sheep, 152.8ms
+image 485/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/95830_text_removed.jpg: 448x640 1 person, 160.1ms
+image 486/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/96180_text_removed.jpg: 640x544 1 person, 1 cat, 1 tie, 187.7ms
+image 487/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/96250_text_removed.jpg: 448x640 1 person, 1 handbag, 160.2ms
+image 488/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/96284_text_removed.jpg: 448x640 3 persons, 164.8ms
+image 489/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/96312_text_removed.jpg: 448x640 1 person, 153.1ms
+image 490/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/96472_text_removed.jpg: 448x640 3 persons, 151.3ms
+image 491/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/97068_text_removed.jpg: 640x448 1 person, 169.1ms
+image 492/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/97132_text_removed.jpg: 448x640 1 person, 1 tie, 149.2ms
+image 493/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/97305_text_removed.jpg: 448x640 1 person, 162.3ms
+image 494/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/97320_text_removed.jpg: 448x640 (no detections), 160.9ms
+image 495/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/97453_text_removed.jpg: 640x480 2 persons, 186.4ms
+image 496/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/98235_text_removed.jpg: 640x448 2 persons, 1 car, 161.8ms
+image 497/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/98543_text_removed.jpg: 640x480 1 person, 1 fork, 175.3ms
+image 498/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/98547_text_removed.jpg: 416x640 (no detections), 159.2ms
+image 499/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/98701_text_removed.jpg: 352x640 1 person, 1 sports ball, 135.7ms
+image 500/500 /Users/alexthuruthel/sem4/Precog Task/data/dev_images_no_text/98720_text_removed.jpg: 416x640 1 person, 155.7ms
+Speed: 2.9ms preprocess, 163.9ms inference, 0.6ms postprocess per image at shape (1, 3, 416, 640)
+Results saved to obj_detect/without_captions
