@@ -1,9 +1,8 @@
-import nomic
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
-# output = nomic.embed.text(
-#     texts=['Nomic Embedding API', '#keepAIOpen'],
-#     model='nomic-embed-text-v1',
-#     task_type='search_document'
-# )
+model= SentenceTransformer('bert-base-nli-mean-tokens')
 
-# print(output)
+vector=model.encode(["a man standing over a city","muslim invasion"])
+
+print(cosine_similarity([vector[0]],vector[1:]))
