@@ -27,4 +27,4 @@ Each task has its own folder , where there exist all the files required to run t
 
 ```bash
 # Example command to install dependencies
-pip install - matplotlib (for plotting graphs) torch cv2 os shutil math numpy keras_ocr jsonlines ultralytics deepface promptcap sentence_transformers sklearn
+pip install - matplotlib torch cv2 os shutil math numpy keras_ocr jsonlines ultralytics deepface promptcap sentence_transformers sklearn
